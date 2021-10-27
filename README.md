@@ -1,3 +1,0 @@
-# PriceTag
-
-git checkout dev
